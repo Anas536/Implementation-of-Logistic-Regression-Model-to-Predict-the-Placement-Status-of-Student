@@ -21,9 +21,6 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: Mohamed Anas O.I
 RegisterNumber: 212223110028
 */
-```
-
-```
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
